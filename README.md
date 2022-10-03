@@ -3,7 +3,8 @@
 - 사이트 선정 이유
   -  처음 프로젝트를 E-COMMERCE로 하였기에, 새로운 분야와 해당 페이지들을 가진 티켓팅 사이트를 하게 되었다.
 
-![메가박스](https://user-images.githubusercontent.com/108418225/190359024-709b2df0-3249-4708-8e2f-7d6bcb38c07a.png)
+![영화 메인](https://user-images.githubusercontent.com/88419431/193578658-46ee5ce7-9cd6-42a1-aaae-13051aa3df86.PNG)
+
 
   
   
@@ -25,7 +26,7 @@
 
 :paperclip:  [dbdiogram 링크](https://dbdiagram.io/d/6327c6e10911f91ba5db0917)   
 
-![디비](https://user-images.githubusercontent.com/108418225/190328843-2bbf8125-2c98-43a3-a3d0-f31fd9613631.png)
+![DB](https://user-images.githubusercontent.com/88419431/193578720-4b6a58e6-042d-4adc-aa50-f21e3beac4f9.PNG)
 
   
  

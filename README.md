@@ -120,9 +120,8 @@
 - 또한 슬라이드는 동일하게 react-swiper를 사용하고, 실제 시간표를 hover하였을때, 영상시간과 현재 남은 좌석을 표시하고 클릭하면 해당 영화시간에 좌석페이지로 이동할 수 있도록 구현하였다. 
 - 다음으로 관별, 지역별로 sort하여 표시해주는 것은 백엔드에서 받은 데이터를 filter와 foreach함수를 통하여 다시 순서를 맞추고 map을 돌렸다. 
 
-![상영리스트1](https://user-images.githubusercontent.com/88419431/193582159-28863e61-b9be-433b-b785-e808be9b04ca.gif)
 
-![상영리스트2](https://user-images.githubusercontent.com/88419431/193582172-426b9d39-e610-4fb7-aa38-971ab9cff01a.gif)
+![상영시간표](https://user-images.githubusercontent.com/88419431/193583837-5779fb88-91f1-4b71-a9e9-fa8190b18fd7.gif)
 
 
   

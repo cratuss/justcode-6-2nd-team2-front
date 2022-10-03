@@ -119,8 +119,8 @@
 먼저 위에 네비게이션 박스는 받는 props로 렌더링되는 컴포넌트를 구분하였다. 또한 슬라이드는 동일하게 react-swiper를 사용하고, 실제 시간표를 hover하였을때, 영상시간과 현재 남은 좌석을 표시하고 클릭하면 해당 영화시간에 좌석페이지로 이동할 수 있도록 구현하였다. 
 다음으로 관별, 지역별로 sort하여 표시해주는 것은 백엔드에서 받은 데이터를 filter와 foreach함수를 통하여 다시 순서를 맞추고 map을 돌렸다. 
 
-![결제페이지gif형태](https://user-images.githubusercontent.com/88419431/190586976-fc7a7e6e-c74d-4d48-8757-e04fc72c4c45.gif)
-
+![상영리스트1](https://user-images.githubusercontent.com/88419431/193582159-28863e61-b9be-433b-b785-e808be9b04ca.gif)
+![상영리스트2](https://user-images.githubusercontent.com/88419431/193582172-426b9d39-e610-4fb7-aa38-971ab9cff01a.gif)
 
 
 
@@ -129,13 +129,12 @@
   
 ## 5. API Docs
 
-:paperclip: [회원가입 / 로그인 / 상품 상세 페이지 / 리뷰 API](https://documenter.getpostman.com/view/22723173/VUxVrQLd)  
-:paperclip: [카테고리 / 상품 필터, 정렬 / 상품 리스트 API](https://documenter.getpostman.com/view/22723465/VUxXKNsa)  
-:paperclip: [장바구니 / 결제 API](https://documenter.getpostman.com/view/22723465/VVBQX98b)  
+:paperclip: [전체 API](https://documenter.getpostman.com/view/22703204/2s7ZE4NQnp#de716034-8667-44c7-9662-0eadb80d143e)  
+
 
 ## Reference
 
-- 이 프로젝트는 [오설록](https://www.osulloc.com/kr/ko) 사이트를 참조하여 학습목적으로 만들었습니다.
+- 이 프로젝트는 [메가박스](https://www.megabox.co.kr/) 사이트를 참조하여 학습목적으로 만들었습니다.
 - 실무수준의 프로젝트이지만 학습용으로 만들었기 때문에 이 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.
 
 

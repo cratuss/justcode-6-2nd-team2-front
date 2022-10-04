@@ -18,7 +18,7 @@
 
 - __[프론트엔드 GitHub](https://github.com/wecode-bootcamp-korea/justcode-6-2nd-team2-front)__ 
 
-- __[팀 노션](https://github.com/wecode-bootcamp-korea/justcode-6-2nd-team2-back)__
+- __[백엔드 GitHub](https://github.com/wecode-bootcamp-korea/justcode-6-2nd-team2-back)__
 
   
   
